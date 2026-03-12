@@ -19,7 +19,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com">
+    <a href="mailto:monish123ar@gmail.com">
       <img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" />
     </a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
@@ -40,7 +40,7 @@
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=monish394&style=flat-square&color=blue" alt="Profile Visit"/>
+ <img src="https://komarev.com/ghpvc/?username=monish394&style=flat-square&color=blue" alt="Profile Visit"/> 
 
 </div>
 
