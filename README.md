@@ -33,13 +33,10 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/midhun-nk">
+  <a href="https://www.linkedin.com/in/armonishkumar78/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/mike.devlogs">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
 
 </p>
 
@@ -103,7 +100,7 @@
 
 <h3>🧰 Tools & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,gcp,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,postman" />
 
 </td>
 
