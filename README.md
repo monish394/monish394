@@ -62,19 +62,25 @@
 ---
 
 ## 🛠️ Skills (updated)
+## 🛠️ Skills
 <p align="center">
 <table>
 <tr>
 
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,typescript,python" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python" />
 <br/><br/>
+
 </td>
 
 <td width="50%" align="center">
+
 <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,spring,tailwind,bootstrap" />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,tailwind,bootstrap" />
+
 </td>
 
 </tr>
@@ -82,20 +88,25 @@
 <tr>
 
 <td width="50%" align="center">
+
 <h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 <br/><br/>
+
 </td>
 
 <td width="50%" align="center">
+
 <h3>🧰 Tools & Platforms</h3>
+
 <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio" />
+
 </td>
 
 </tr>
 </table>
 </p>
-
 ---
 
 ## 🚀 Featured Projects (pulled from resume)
