@@ -53,7 +53,7 @@
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python" height="50px" style="margin:5px"/>
+<img src="https://skillicons.dev/icons?i=java,js,python" height="50px" style="margin:5px"/>
 <p>Java, JavaScript, TypeScript, Python</p>
 </td>
 
