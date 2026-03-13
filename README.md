@@ -92,7 +92,8 @@
 <tr>
 <td colspan="2" align="center">
 <h3>🌐 AI & Others</h3>
-<img src="https://skillicons.dev/icons?i=openai,google" height="50px" style="margin:5px"/>
+<img src="https://media.istockphoto.com/id/1857551103/vector/abstract-form-with-gradient-color-in-lgbtqia-colors.jpg?s=612x612&w=0&k=20&c=799q-mfMzKut_zQ3lCvscHiaHF8i_hJgXQBmGECoj_Q=" height="50px" style="margin:5px"/>
+  <img src="https://latestlogo.com/wp-content/uploads/2024/01/openai-icon.png" height="50px" style="margin:5px"/>
 <p>Google Gemini AI, OpenAI</p>
 </td>
 </tr>
