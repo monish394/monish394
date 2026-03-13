@@ -53,12 +53,14 @@
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=java,js,python" />
+<img src="https://skillicons.dev/icons?i=java,js,ts" />
+<p>Java, JavaScript, TypeScript</p>
 </td>
 
 <td width="50%" align="center">
 <h3>🎨 Frontend Development</h3>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+<p>React.js, Tailwind CSS, Bootstrap, HTML, CSS</p>
 </td>
 </tr>
 
@@ -66,18 +68,29 @@
 <td width="50%" align="center">
 <h3>⚙️ Backend Development</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+<p>Node.js, Express.js, Spring Boot, REST APIs, JWT Auth</p>
 </td>
 
 <td width="50%" align="center">
 <h3>🗄️ Databases</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p>MongoDB (Mongoose), MySQL</p>
 </td>
 </tr>
 
 <tr>
 <td colspan="2" align="center">
 <h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,cloudinary,razorpay,socketio" />
+<p>Git, VS Code, Postman, Figma, Cloudinary, Razorpay, Socket.io</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<h3>🌐 Others / AI</h3>
+<img src="https://skillicons.dev/icons?i=openai" />
+<p>Google Gemini AI for smart suggestions & receipt scanning</p>
 </td>
 </tr>
 
