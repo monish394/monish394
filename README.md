@@ -82,9 +82,9 @@
 <td colspan="2" align="center">
 <h3>🧰 Tools & Platforms</h3>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="50px" style="margin:5px"/>
-<img src="https://raw.githubusercontent.com/monish394/Asset-Maintenance/main/assets/cloudinary.png" height="50px" style="margin:5px"/>
-<img src="https://raw.githubusercontent.com/monish394/Asset-Maintenance/main/assets/razorpay.png" height="50px" style="margin:5px"/>
-<img src="https://raw.githubusercontent.com/monish394/Asset-Maintenance/main/assets/socketio.png" height="50px" style="margin:5px"/>
+<img src="https://raw.githubusercontent.com/monish394/profile-assets/main/cloudinary.png" height="50px" style="margin:5px"/>
+<img src="https://raw.githubusercontent.com/monish394/profile-assets/main/razorpay.png" height="50px" style="margin:5px"/>
+<img src="https://raw.githubusercontent.com/monish394/profile-assets/main/socketio.png" height="50px" style="margin:5px"/>
 <p>Git, GitHub, VS Code, Postman, Figma, Cloudinary, Razorpay, Socket.io</p>
 </td>
 </tr>
@@ -92,15 +92,14 @@
 <tr>
 <td colspan="2" align="center">
 <h3>🌐 AI & Others</h3>
-<img src="https://raw.githubusercontent.com/monish394/Asset-Maintenance/main/assets/openai.png" height="50px" style="margin:5px"/>
+<img src="https://raw.githubusercontent.com/monish394/profile-assets/main/openai.png" height="50px" style="margin:5px"/>
 <p>Google Gemini AI, OpenAI</p>
 </td>
 </tr>
 
 </table>
 
-</p>
----
+</p>---
 
 ## 🚀 Featured Projects
 
