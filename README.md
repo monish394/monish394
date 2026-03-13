@@ -53,13 +53,13 @@
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python" width="50"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python" height="50px" style="margin:5px"/>
 <p>Java, JavaScript, TypeScript, Python</p>
 </td>
 
 <td width="50%" align="center">
 <h3>🎨 Frontend Development</h3>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" width="50"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" height="50px" style="margin:5px"/>
 <p>HTML, CSS, React.js, Tailwind CSS, Bootstrap</p>
 </td>
 </tr>
@@ -67,13 +67,13 @@
 <tr>
 <td width="50%" align="center">
 <h3>⚙️ Backend Development</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" width="50"/>
-<p>Node.js, Express.js, Spring Boot, REST APIs, JWT Authentication</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" height="50px" style="margin:5px"/>
+<p>Node.js, Express.js, Spring Boot, REST APIs, JWT Auth</p>
 </td>
 
 <td width="50%" align="center">
 <h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" width="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50px" style="margin:5px"/>
 <p>MongoDB (Mongoose), MySQL</p>
 </td>
 </tr>
@@ -81,10 +81,10 @@
 <tr>
 <td colspan="2" align="center">
 <h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" width="50"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/cloudinary/cloudinary.png" width="50"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/razorpay/razorpay.png" width="50"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/socket-io/socket-io.png" width="50"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="50px" style="margin:5px"/>
+<img src="https://raw.githubusercontent.com/monish394/assets/main/cloudinary.svg" height="50px" style="margin:5px"/>
+<img src="https://raw.githubusercontent.com/monish394/assets/main/razorpay.svg" height="50px" style="margin:5px"/>
+<img src="https://raw.githubusercontent.com/monish394/assets/main/socketio.svg" height="50px" style="margin:5px"/>
 <p>Git, GitHub, VS Code, Postman, Figma, Cloudinary, Razorpay, Socket.io</p>
 </td>
 </tr>
@@ -92,7 +92,7 @@
 <tr>
 <td colspan="2" align="center">
 <h3>🌐 AI & Others</h3>
-<img src="https://skillicons.dev/icons?i=openai,google" width="50"/>
+<img src="https://skillicons.dev/icons?i=openai,google" height="50px" style="margin:5px"/>
 <p>Google Gemini AI, OpenAI</p>
 </td>
 </tr>
@@ -100,7 +100,6 @@
 </table>
 
 </p>
-
 ---
 
 ## 🚀 Featured Projects
