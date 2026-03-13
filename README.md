@@ -46,6 +46,8 @@
 
 ## 🛠️ Skills
 
+## 🛠️ Skills
+
 <p align="center">
 
 <table>
@@ -53,22 +55,22 @@
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=java,js,ts" />
-<p>Java, JavaScript, TypeScript</p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python" />
+<p>Java, JavaScript, TypeScript, Python</p>
 </td>
 
 <td width="50%" align="center">
 <h3>🎨 Frontend Development</h3>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-<p>React.js, Tailwind CSS, Bootstrap, HTML, CSS</p>
+<p>HTML, CSS, React.js, Tailwind CSS, Bootstrap</p>
 </td>
 </tr>
 
 <tr>
 <td width="50%" align="center">
 <h3>⚙️ Backend Development</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-<p>Node.js, Express.js, Spring Boot, REST APIs, JWT Auth</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" />
+<p>Node.js, Express.js, Spring Boot, REST APIs, JWT Authentication</p>
 </td>
 
 <td width="50%" align="center">
@@ -81,16 +83,16 @@
 <tr>
 <td colspan="2" align="center">
 <h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,cloudinary,razorpay,socketio" />
-<p>Git, VS Code, Postman, Figma, Cloudinary, Razorpay, Socket.io</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,cloudinary,razorpay,socketio" />
+<p>Git, GitHub, VS Code, Postman, Figma, Cloudinary, Razorpay, Socket.io</p>
 </td>
 </tr>
 
 <tr>
 <td colspan="2" align="center">
-<h3>🌐 Others / AI</h3>
-<img src="https://skillicons.dev/icons?i=openai" />
-<p>Google Gemini AI for smart suggestions & receipt scanning</p>
+<h3>🌐 AI & Others</h3>
+<img src="https://skillicons.dev/icons?i=openai,google" />
+<p>Google Gemini AI, OpenAI</p>
 </td>
 </tr>
 
