@@ -46,10 +46,6 @@
 
 ## 🛠️ Skills
 
-## 🛠️ Skills
-
-## 🛠️ Skills
-
 <p align="center">
 
 <table>
@@ -86,9 +82,9 @@
 <td colspan="2" align="center">
 <h3>🧰 Tools & Platforms</h3>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" width="50"/>
-<img src="https://seeklogo.com/images/C/cloudinary-logo-1A0B41A5D0-seeklogo.com.png" width="50"/>
-<img src="https://seeklogo.com/images/R/razorpay-logo-3B309F1A6B-seeklogo.com.png" width="50"/>
-<img src="https://seeklogo.com/images/S/socket-io-logo-7B5E54B48D-seeklogo.com.png" width="50"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/cloudinary/cloudinary.png" width="50"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/razorpay/razorpay.png" width="50"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/socket-io/socket-io.png" width="50"/>
 <p>Git, GitHub, VS Code, Postman, Figma, Cloudinary, Razorpay, Socket.io</p>
 </td>
 </tr>
@@ -104,6 +100,7 @@
 </table>
 
 </p>
+
 ---
 
 ## 🚀 Featured Projects
