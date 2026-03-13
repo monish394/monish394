@@ -80,7 +80,7 @@
 
 <h3>⚙️ Backend Development</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 
 </td>
 
@@ -132,7 +132,6 @@
 - Event scheduling and venue management system  
 - Interactive maps using **React-Leaflet**
 
----
 
 ## 📊 GitHub Stats
 
