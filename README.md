@@ -82,9 +82,9 @@
 <td colspan="2" align="center">
 <h3>🧰 Tools & Platforms</h3>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="50px" style="margin:5px"/>
-<img src="https://mms.businesswire.com/media/20191216005419/en/644377/23/cloudinary_vertical_logo_for_white_bg_print.jpg" height="50px" style="margin:5px"/>
-<img src="https://tse4.mm.bing.net/th/id/OIP.1nEfALK6hoDBZmbwKOhe9gHaEc?rs=1&pid=ImgDetMain&o=7&rm=3" height="50px" style="margin:5px"/>
-<img src="https://logowik.com/content/uploads/images/socket-io3232.logowik.com.webp" height="50px" style="margin:5px"/>
+<img src="https://raw.githubusercontent.com/monish394/Asset-Maintenance/main/assets/cloudinary.png" height="50px" style="margin:5px"/>
+<img src="https://raw.githubusercontent.com/monish394/Asset-Maintenance/main/assets/razorpay.png" height="50px" style="margin:5px"/>
+<img src="https://raw.githubusercontent.com/monish394/Asset-Maintenance/main/assets/socketio.png" height="50px" style="margin:5px"/>
 <p>Git, GitHub, VS Code, Postman, Figma, Cloudinary, Razorpay, Socket.io</p>
 </td>
 </tr>
@@ -92,7 +92,7 @@
 <tr>
 <td colspan="2" align="center">
 <h3>🌐 AI & Others</h3>
-<img src="https://skillicons.dev/icons?i=openai,google" height="50px" style="margin:5px"/>
+<img src="https://raw.githubusercontent.com/monish394/Asset-Maintenance/main/assets/openai.png" height="50px" style="margin:5px"/>
 <p>Google Gemini AI, OpenAI</p>
 </td>
 </tr>
