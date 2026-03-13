@@ -48,6 +48,8 @@
 
 ## 🛠️ Skills
 
+## 🛠️ Skills
+
 <p align="center">
 
 <table>
@@ -55,13 +57,13 @@
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python" width="50"/>
 <p>Java, JavaScript, TypeScript, Python</p>
 </td>
 
 <td width="50%" align="center">
 <h3>🎨 Frontend Development</h3>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" width="50"/>
 <p>HTML, CSS, React.js, Tailwind CSS, Bootstrap</p>
 </td>
 </tr>
@@ -69,13 +71,13 @@
 <tr>
 <td width="50%" align="center">
 <h3>⚙️ Backend Development</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" width="50"/>
 <p>Node.js, Express.js, Spring Boot, REST APIs, JWT Authentication</p>
 </td>
 
 <td width="50%" align="center">
 <h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" width="50"/>
 <p>MongoDB (Mongoose), MySQL</p>
 </td>
 </tr>
@@ -83,7 +85,10 @@
 <tr>
 <td colspan="2" align="center">
 <h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,cloudinary,razorpay,socketio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" width="50"/>
+<img src="https://seeklogo.com/images/C/cloudinary-logo-1A0B41A5D0-seeklogo.com.png" width="50"/>
+<img src="https://seeklogo.com/images/R/razorpay-logo-3B309F1A6B-seeklogo.com.png" width="50"/>
+<img src="https://seeklogo.com/images/S/socket-io-logo-7B5E54B48D-seeklogo.com.png" width="50"/>
 <p>Git, GitHub, VS Code, Postman, Figma, Cloudinary, Razorpay, Socket.io</p>
 </td>
 </tr>
@@ -91,7 +96,7 @@
 <tr>
 <td colspan="2" align="center">
 <h3>🌐 AI & Others</h3>
-<img src="https://skillicons.dev/icons?i=openai,google" />
+<img src="https://skillicons.dev/icons?i=openai,google" width="50"/>
 <p>Google Gemini AI, OpenAI</p>
 </td>
 </tr>
@@ -99,7 +104,6 @@
 </table>
 
 </p>
-
 ---
 
 ## 🚀 Featured Projects
