@@ -80,7 +80,7 @@
 
 <h3>⚙️ Backend Development</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql" />
 
 </td>
 
